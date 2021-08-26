@@ -1,0 +1,6 @@
+C:\Users\kleber.acmoreno\Desktop\Aluno_Kleber\Alula Prof. Adolfo_Visual Studio\OperacoesMatematicas\SomaDeNumeros\bin\Debug\SomaDeNumeros.exe.config
+C:\Users\kleber.acmoreno\Desktop\Aluno_Kleber\Alula Prof. Adolfo_Visual Studio\OperacoesMatematicas\SomaDeNumeros\bin\Debug\SomaDeNumeros.exe
+C:\Users\kleber.acmoreno\Desktop\Aluno_Kleber\Alula Prof. Adolfo_Visual Studio\OperacoesMatematicas\SomaDeNumeros\bin\Debug\SomaDeNumeros.pdb
+C:\Users\kleber.acmoreno\Desktop\Aluno_Kleber\Alula Prof. Adolfo_Visual Studio\OperacoesMatematicas\SomaDeNumeros\obj\Debug\SomaDeNumeros.csprojAssemblyReference.cache
+C:\Users\kleber.acmoreno\Desktop\Aluno_Kleber\Alula Prof. Adolfo_Visual Studio\OperacoesMatematicas\SomaDeNumeros\obj\Debug\SomaDeNumeros.exe
+C:\Users\kleber.acmoreno\Desktop\Aluno_Kleber\Alula Prof. Adolfo_Visual Studio\OperacoesMatematicas\SomaDeNumeros\obj\Debug\SomaDeNumeros.pdb
